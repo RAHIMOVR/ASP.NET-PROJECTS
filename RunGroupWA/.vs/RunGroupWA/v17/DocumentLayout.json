@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Views\\Club\\Detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RunGroupWA\\Views\\Club\\Detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\rungroupwa\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|solutionrelative:rungroupwa\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\rungroupwa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|solutionrelative:rungroupwa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\rungroupwa\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|solutionrelative:rungroupwa\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\rungroupwa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|solutionrelative:rungroupwa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\rungroupwa\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|solutionrelative:rungroupwa\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\rungroupwa\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|solutionrelative:rungroupwa\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\rungroupwa\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|solutionrelative:rungroupwa\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\rungroupwa\\migrations\\20240805063228_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|solutionrelative:rungroupwa\\migrations\\20240805063228_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\rungroupwa\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|solutionrelative:rungroupwa\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\rungroupwa\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|solutionrelative:rungroupwa\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\rungroupwa\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|solutionrelative:rungroupwa\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\rungroupwa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|solutionrelative:rungroupwa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\rungroupwa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|solutionrelative:rungroupwa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\rungroupwa\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|solutionrelative:rungroupwa\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\rungroupwa\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|solutionrelative:rungroupwa\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\rungroupwa\\models\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|solutionrelative:rungroupwa\\models\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\rungroupwa\\data\\enum\\racecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|solutionrelative:rungroupwa\\data\\enum\\racecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|C:\\Users\\rehim\\source\\repos\\RunGroupWA\\rungroupwa\\data\\enum\\clubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B22BCB7-3C60-4DB7-A8FC-303A9B90D318}|RunGroupWA\\RunGroupWA.csproj|solutionrelative:rungroupwa\\data\\enum\\clubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Views\\Club\\Detail.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWA\\Views\\Club\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Views\\Club\\Detail.cshtml",
+              "RelativeToolTip": "RunGroupWA\\Views\\Club\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T06:59:25.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWA\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RunGroupWA\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T06:46:25.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Views\\Race\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWA\\Views\\Race\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Views\\Race\\Index.cshtml",
+              "RelativeToolTip": "RunGroupWA\\Views\\Race\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T11:39:50.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RaceController.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Controllers\\RaceController.cs",
+              "RelativeDocumentMoniker": "RunGroupWA\\Controllers\\RaceController.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Controllers\\RaceController.cs",
+              "RelativeToolTip": "RunGroupWA\\Controllers\\RaceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:36:22.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWA\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RunGroupWA\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwCQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T11:29:18.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Views\\Club\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWA\\Views\\Club\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Views\\Club\\Index.cshtml",
+              "RelativeToolTip": "RunGroupWA\\Views\\Club\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T08:12:09.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClubController.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Controllers\\ClubController.cs",
+              "RelativeDocumentMoniker": "RunGroupWA\\Controllers\\ClubController.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Controllers\\ClubController.cs",
+              "RelativeToolTip": "RunGroupWA\\Controllers\\ClubController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:26:07.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Club.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Models\\Club.cs",
+              "RelativeDocumentMoniker": "RunGroupWA\\Models\\Club.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Models\\Club.cs",
+              "RelativeToolTip": "RunGroupWA\\Models\\Club.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:30:09.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWA\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "RunGroupWA\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T11:07:13.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWA\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "RunGroupWA\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T11:07:16.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "RunGroupWA\\Data\\Seed.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Data\\Seed.cs",
+              "RelativeToolTip": "RunGroupWA\\Data\\Seed.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:24:56.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240805063228_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Migrations\\20240805063228_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RunGroupWA\\Migrations\\20240805063228_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Migrations\\20240805063228_InitialCreate.cs",
+              "RelativeToolTip": "RunGroupWA\\Migrations\\20240805063228_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:32:28.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Program.cs",
+              "RelativeDocumentMoniker": "RunGroupWA\\Program.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Program.cs",
+              "RelativeToolTip": "RunGroupWA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:12:45.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\appsettings.json",
+              "RelativeDocumentMoniker": "RunGroupWA\\appsettings.json",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\appsettings.json",
+              "RelativeToolTip": "RunGroupWA\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T09:09:40.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Race.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Models\\Race.cs",
+              "RelativeDocumentMoniker": "RunGroupWA\\Models\\Race.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Models\\Race.cs",
+              "RelativeToolTip": "RunGroupWA\\Models\\Race.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:50:14.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "RunGroupWA\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Models\\AppUser.cs",
+              "RelativeToolTip": "RunGroupWA\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:20:38.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "RunGroupWA\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Models\\Address.cs",
+              "RelativeToolTip": "RunGroupWA\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:00:02.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClubCategory.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Data\\Enum\\ClubCategory.cs",
+              "RelativeDocumentMoniker": "RunGroupWA\\Data\\Enum\\ClubCategory.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Data\\Enum\\ClubCategory.cs",
+              "RelativeToolTip": "RunGroupWA\\Data\\Enum\\ClubCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:33:27.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RaceCategory.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Data\\Enum\\RaceCategory.cs",
+              "RelativeDocumentMoniker": "RunGroupWA\\Data\\Enum\\RaceCategory.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\RunGroupWA\\RunGroupWA\\Data\\Enum\\RaceCategory.cs",
+              "RelativeToolTip": "RunGroupWA\\Data\\Enum\\RaceCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:52:30.416Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

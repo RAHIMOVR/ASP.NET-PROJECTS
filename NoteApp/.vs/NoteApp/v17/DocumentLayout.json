@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rehim\\source\\repos\\NoteApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|C:\\Users\\rehim\\source\\repos\\NoteApp\\noteapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|C:\\Users\\rehim\\source\\repos\\NoteApp\\noteapp\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|C:\\Users\\rehim\\source\\repos\\NoteApp\\noteapp\\data\\migrations\\20240321233603_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\data\\migrations\\20240321233603_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|c:\\users\\rehim\\source\\repos\\noteapp\\noteapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|C:\\Users\\rehim\\source\\repos\\NoteApp\\noteapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|C:\\Users\\rehim\\source\\repos\\NoteApp\\noteapp\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|c:\\users\\rehim\\source\\repos\\noteapp\\noteapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|c:\\users\\rehim\\source\\repos\\noteapp\\noteapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|c:\\users\\rehim\\source\\repos\\noteapp\\noteapp\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|C:\\Users\\rehim\\source\\repos\\NoteApp\\noteapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|C:\\Users\\rehim\\source\\repos\\NoteApp\\noteapp\\views\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\views\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|C:\\Users\\rehim\\source\\repos\\NoteApp\\noteapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|C:\\Users\\rehim\\source\\repos\\NoteApp\\noteapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063A0419-3711-44E6-A304-9EED47CF2778}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NoteApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "NoteApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T07:20:53.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "NoteApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "NoteApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T07:20:28.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NoteApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NoteApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T07:20:19.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "NoteApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T23:27:32.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "NoteApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T00:57:47.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NoteApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NoteApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T00:49:26.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Views\\Notes\\Index.cshtml",
+              "RelativeDocumentMoniker": "NoteApp\\Views\\Notes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Views\\Notes\\Index.cshtml",
+              "RelativeToolTip": "NoteApp\\Views\\Notes\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T00:49:12.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "NoteApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "NoteApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-22T00:47:23.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240321233603_initialsetup.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Data\\Migrations\\20240321233603_initialsetup.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Data\\Migrations\\20240321233603_initialsetup.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Data\\Migrations\\20240321233603_initialsetup.cs",
+              "RelativeToolTip": "NoteApp\\Data\\Migrations\\20240321233603_initialsetup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T23:36:03.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "NoteApp\\Controllers\\NotesController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwFwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T23:22:27.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NoteApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T00:58:55.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "NoteApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T23:18:33.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\NoteApp\\NoteApp\\Models\\Note.cs",
+              "RelativeToolTip": "NoteApp\\Models\\Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T23:16:22.403Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

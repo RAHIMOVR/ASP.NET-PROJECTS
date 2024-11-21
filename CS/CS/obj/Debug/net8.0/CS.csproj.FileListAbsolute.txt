@@ -1,0 +1,14 @@
+C:\Users\rehim\source\repos\CS\CS\bin\Debug\net8.0\CS.exe
+C:\Users\rehim\source\repos\CS\CS\bin\Debug\net8.0\CS.deps.json
+C:\Users\rehim\source\repos\CS\CS\bin\Debug\net8.0\CS.runtimeconfig.json
+C:\Users\rehim\source\repos\CS\CS\bin\Debug\net8.0\CS.dll
+C:\Users\rehim\source\repos\CS\CS\bin\Debug\net8.0\CS.pdb
+C:\Users\rehim\source\repos\CS\CS\obj\Debug\net8.0\CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rehim\source\repos\CS\CS\obj\Debug\net8.0\CS.AssemblyInfoInputs.cache
+C:\Users\rehim\source\repos\CS\CS\obj\Debug\net8.0\CS.AssemblyInfo.cs
+C:\Users\rehim\source\repos\CS\CS\obj\Debug\net8.0\CS.csproj.CoreCompileInputs.cache
+C:\Users\rehim\source\repos\CS\CS\obj\Debug\net8.0\CS.dll
+C:\Users\rehim\source\repos\CS\CS\obj\Debug\net8.0\refint\CS.dll
+C:\Users\rehim\source\repos\CS\CS\obj\Debug\net8.0\CS.pdb
+C:\Users\rehim\source\repos\CS\CS\obj\Debug\net8.0\CS.genruntimeconfig.cache
+C:\Users\rehim\source\repos\CS\CS\obj\Debug\net8.0\ref\CS.dll

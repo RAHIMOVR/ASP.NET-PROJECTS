@@ -1,0 +1,17 @@
+C:\Users\rehim\source\repos\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.exe
+C:\Users\rehim\source\repos\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.deps.json
+C:\Users\rehim\source\repos\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.runtimeconfig.json
+C:\Users\rehim\source\repos\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.dll
+C:\Users\rehim\source\repos\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.pdb
+C:\Users\rehim\source\repos\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.Form1.resources
+C:\Users\rehim\source\repos\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.csproj.GenerateResource.cache
+C:\Users\rehim\source\repos\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rehim\source\repos\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.AssemblyInfoInputs.cache
+C:\Users\rehim\source\repos\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.AssemblyInfo.cs
+C:\Users\rehim\source\repos\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.csproj.CoreCompileInputs.cache
+C:\Users\rehim\source\repos\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.dll
+C:\Users\rehim\source\repos\PaintApp\PaintApp\obj\Debug\net8.0-windows\refint\PaintApp.dll
+C:\Users\rehim\source\repos\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.pdb
+C:\Users\rehim\source\repos\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.genruntimeconfig.cache
+C:\Users\rehim\source\repos\PaintApp\PaintApp\obj\Debug\net8.0-windows\ref\PaintApp.dll
+C:\Users\rehim\source\repos\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.Properties.Resources.resources
